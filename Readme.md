@@ -66,6 +66,5 @@ We welcome contributions from the community! If you'd like to contribute to Tapp
 License
 -------
 
-Tapp is released under the [GNU License](https://github.com/yourusername/tapp/blob/main/LICENSE).
-
+Tapp is released under the [GNU License](https://github.com/DanPace725/Tapp/blob/27eb4802014a73ac9ab4075639d9db1ed6947b45/LICENSE).
 ---
