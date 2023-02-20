@@ -35,7 +35,7 @@ To get started with Tapp, follow these steps:
 2.  Install the dependencies by running the following command:
     
 
-sh
+
 
 ```sh
 npm install
@@ -43,7 +43,7 @@ npm install
 
 3.  Start the app by running the following command:
 
-sh
+
 
 ```sh
 npm start
