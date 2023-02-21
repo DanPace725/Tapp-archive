@@ -20,10 +20,13 @@ Tech Stack
 
 Tapp is built with the following tech stack:
 
-*   Electron: a framework for building cross-platform desktop applications with web technologies
-*   React: a JavaScript library for building user interfaces
-*   Node.js: a JavaScript runtime for building server-side applications
+*   Flutter (as the main framework for building the app)
+*   Dart (as the main programming language for building the app)
+*   Provider (as the state management solution for Flutter)
+*   Hasura (as the backend service for the app, providing real-time APIs and instant APIs for PostgreSQL databases)
+*   PostgreSQL (as the database for storing and retrieving data, using Hasura as the API layer)
 *   Tensorflow.js: an open-source machine learning library for JavaScript
+*   PyTorch: a popular open-source machine learning library 
 
 Getting Started
 ---------------
