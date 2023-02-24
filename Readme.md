@@ -3,7 +3,7 @@ Tapp
 
 * Currently a work in progress
 
-Tapp is an AI-powered task scheduling app built with Electron, React, and Node.js. With Tapp, you can easily schedule your tasks and get personalized recommendations to optimize your schedule and achieve your goals.
+Tapp is an AI-powered task scheduling app built with Flutter and Android Studio With Tapp, you can easily schedule your tasks and get personalized recommendations to optimize your schedule and achieve your goals.
 
 Features
 --------
